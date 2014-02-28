@@ -24,6 +24,7 @@ Contribute:
 
 #. Add other Nest commands.  Set fans, humidity target, etc.
 #. Is there a better way to choose a target device from multiple devices?
+#. Commandline interface?
 
 .. _Nest Learning Thermostat: http://www.nest.com
 .. _this excellent php example: https://github.com/gboudreau/nest-api
