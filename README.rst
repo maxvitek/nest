@@ -14,9 +14,9 @@ It may be imported directly, thus:
 
 .. code-block:: pycon
 
-    >>>from nest import Next
-    >>>nest = Nest('your.name@email.com', 'p455w0rd')
-    >>>nest.set_target_temperature(75)
+    >>> from nest import Next
+    >>> nest = Nest('your.name@email.com', 'p455w0rd')
+    >>> nest.set_target_temperature(75)
     ...
 
 Contribute:
